@@ -1,0 +1,21 @@
+body{
+    background-color: red;
+    color: white;
+    font-size: 25px;
+}
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float:none;
+    text-align: left;
+}
+#p1_name,#p2_name{
+display :inline-block;
+}
+#button1{
+    font-size: 20px;
+    width: 12%;
+    background-color: chartreuse;
+}
